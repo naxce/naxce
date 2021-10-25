@@ -4,6 +4,7 @@
 Languages I work with:
 <ul>
     <li>C++</li>
+    <li>C</li>
     <li>C#</li>  
     <li>Java</li>   
     <li>JS</li>
