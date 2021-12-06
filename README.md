@@ -1,18 +1,38 @@
-### Hello! I'm <a href="https://helltea.xyz">naxce</a>!
+# 👋 Hello, im <a href="https://google.co.ck">naxce</a>!
+
+## I'm currently work on:
+
+### 🐱‍👤 <b>Minecraft Clients:</b>
+ <li> <a href="https://helltea.xyz">Helltea</a>
+ <li> <a href="https://iloverussia.wtf">Vodka Client</a>
+ <li> <a href="https://h37l.xyz">Gloomy Client</a>
+ <li> <a href="https://h37l.xyz">Lineup</a>
+     
+### 🧨 <b>Others:</b>
+ <li> <a href="https://cookielon.xyz">Cookielon</a> 
+<br />
+
+## 📃 Sites i own:
+
+<li> <a href="https://helltea.xyz">helltea.xyz</li>
+<li> <a href="https://iloverussia.wtf">iloverussia.wtf</li>
+<li> <a href="https://h37l.xyz">h37l.xyz</li>
+<li> <a href="https://cookielon.xyz">cookielon.xyz</li>
+
+## 💬 Languages:
+
+<li> HTML
+<li> CSS
+<li> Java
+<li> JavaScript
+<li> C#
+<li> C++ 
+    
+## ✉ Contact me:
+    
+<a href="https://discord.gg">naxce#0001</a>
+                        
 
 
-Languages I work with:
-<ul>
-    <li>C++</li>
-    <li>C</li>
-    <li>C#</li>  
-    <li>Java</li>   
-    <li>JS</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
-<br>
-- I currently work on Helltea, Vodka Client, and many other projects :D
-<br><br>
-
-<a href="https://discord.gg">just naxce.#9999</a>
+<br />
+<br />
