@@ -21,12 +21,11 @@
 
 ## 💬 Languages:
 
-<li> HTML
-<li> CSS
-<li> Java
-<li> JavaScript
-<li> C#
-<li> C++ 
+<li> <a href="https://www.google.com/search?client=-b-d&q=HTML">HTML</a>
+<li> <a href="https://www.google.com/search?client=-b-d&q=CSS">CSS</a>
+<li> <a href="https://www.google.com/search?client=-b-d&q=Java">Java</a>
+<li> <a href="https://www.google.com/search?client=-b-d&q=JavaScript">JavaScript</a>
+<li> <a href="https://www.google.com/search?client=-b-d&q=C%23">C# </a>
     
 ## ✉ Contact me:
     
