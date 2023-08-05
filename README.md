@@ -2,22 +2,13 @@
 
 ## I'm currently work on:
 
-### 🐱‍👤 <b>Minecraft Clients:</b>
- <li> <a href="https://helltea.xyz">Helltea</a>
- <li> <a href="https://iloverussia.wtf">Vodka Client</a>
- <li> <a href="https://h37l.xyz">Gloomy Client</a>
- <li> <a href="https://h37l.xyz">Lineup</a>
-     
-### 🧨 <b>Others:</b>
- <li> <a href="https://cookielon.xyz">Cookielon</a> 
+### 🧨 <b>nothing lol</b>
+ <li> 
 <br />
 
-## 📃 Sites i own:
+## 📃 Sites I own:
 
-<li> <a href="https://helltea.xyz">helltea.xyz</li>
-<li> <a href="https://iloverussia.wtf">iloverussia.wtf</li>
-<li> <a href="https://h37l.xyz">h37l.xyz</li>
-<li> <a href="https://cookielon.xyz">cookielon.xyz</li>
+<li> <a href="https://thehells.xyz">thehells.xyz</li>
 
 ## 💬 Languages:
 
