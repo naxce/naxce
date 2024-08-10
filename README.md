@@ -3,12 +3,11 @@
 ## I'm currently work on:
 
 ### 🧨 <b>nothing lol</b>
- <li> 
 <br />
 
 ## 📃 Sites I own:
 
-<li> <a href="https://thehells.xyz">thehells.xyz</li>
+<li> <a href="https://demure.cc">demure.cc</li>
 
 ## 💬 Languages:
 
