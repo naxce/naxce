@@ -20,7 +20,7 @@
     
 ## ✉ Contact me:
     
-<a href="https://discord.gg">naxce#0001</a>
+<a href="https://discord.gg">naxce</a>
                         
 
 
