@@ -2,12 +2,12 @@
 
 ## I'm currently work on:
 
-### 🧨 <b>nothing lol</b>
+### 🩵 <b>HourFarmer</b>
 <br />
 
 ## 📃 Sites I own:
 
-<li> <a href="https://demure.cc">demure.cc</li>
+<li> <a href="https://fatum.cc">fatum.cc</li>
 
 ## 💬 Languages:
 
