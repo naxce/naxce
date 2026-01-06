@@ -24,6 +24,13 @@
          <img src="https://fatum.cc/files/imgs/TempInfo64.png" alt="TempInfo" />
       </a>
     </td>
+    <td width="50%" valign="top">
+      <h4>🪻 FatumInstaller>�h4�
+      <p>An installer for Fatum applications.</p>
+      <a href="https://fatum.cc">
+         <img src="https://fatum.cc/files/imgs/Fatum64.png" alt="FatumInstaller" />
+      </a>
+    </td>
   </tr>
 </table>
 
