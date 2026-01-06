@@ -62,6 +62,4 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naxce&theme=tokyonight" alt="naxce streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=naxce&theme=dark&hide_border=true)](https://git.io/streak-stats)
