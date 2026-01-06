@@ -50,11 +50,11 @@
 
 ---
 
-### 📊 GitHub Statistics:
+### 📊 GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naxce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="naxce's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="naxce's Top Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naxce&show_icons=true&theme=tokyonight&hide_border=true" alt="naxce Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naxce&layout=compact&theme=tokyonight&hide_border=true" alt="naxce Languages" height="150" />
 </p>
 
 ---
