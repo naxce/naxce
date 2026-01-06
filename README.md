@@ -22,7 +22,7 @@
         <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="TempInfo" /><br/>
         <b>TempInfo</b>
       </a>
-      <p>Hardware temperature monitor. SOON > Gaming overlay.</p>
+      <p>Hardware temperature monitor with gaming overlay.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://fatum.cc">
@@ -50,6 +50,15 @@
 
 ---
 
+### 📊 GitHub Statistics:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naxce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="naxce's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="naxce's Top Langs" height="170" />
+</p>
+
+---
+
 ### 🌐 My Projects & Links:
 
 * 🌍 **Website:** [Fatum](https://fatum.cc) — *Home of services*
@@ -62,10 +71,4 @@
 <p align="left">
   <a href="https://discord.com/users/400022909911040000"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:naxce@fatum.cc"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naxce&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
