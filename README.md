@@ -1,28 +1,67 @@
-# 👋 Hello, im <a href="https://google.co.ck">naxce</a>!
+# # 👋 Hello, I'm <a href="https://fatum.cc">naxce</a>!
 
-## I'm currently work on:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naxce&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="naxce" />
+</p>
 
-### 🩵 <b>HourFarmer</b>
+---
+
+### 🚀 Currently working on:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🩵 HourFarmer</h4>
+      <p>A lightweight tool for Steam hour farming.</p>
+      <a href="https://github.com/naxce/HourFarmer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxce&repo=HourFarmer&theme=tokyonight" alt="HourFarmer" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌡️ TempInfo</h4>
+      <p>Hardware monitoring with a gaming overlay.</p>
+      <a href="https://github.com/naxce/TempInfo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxce&repo=TempInfo&theme=tokyonight" alt="TempInfo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Languages & Technologies:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 🌐 My Projects & Links:
+
+* 🌍 **Website:** [Fatum](https://fatum.cc) — *Home of services*
+* 👾 **Discord:** [Join Fatum community](https://fatum.cc/discord)
+
+---
+
+### ✉️ Contact me:
+
+<p align="left">
+  <a href="https://discord.com/users/400022909911040000">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:naxce@fatum.cc">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <br />
 
-## 📃 Sites I own:
-
-<li> <a href="https://fatum.cc">fatum.cc</li>
-
-## 💬 Languages:
-
-<li> <a href="https://www.google.com/search?client=-b-d&q=HTML">HTML</a>
-<li> <a href="https://www.google.com/search?client=-b-d&q=CSS">CSS</a>
-<li> <a href="https://www.google.com/search?client=-b-d&q=Java">Java</a>
-<li> <a href="https://www.google.com/search?client=-b-d&q=JavaScript">JavaScript</a>
-<li> <a href="https://www.google.com/search?client=-b-d&q=C%23">C#</a>
-<li> <a href="https://www.google.com/search?q=C%2B%2B&client=-b-d&sxsrf=AOaemvKBJUMNY8c-cnPqK8Ew8wD3ZJbWvA%3A1638813582283&ei=jk-uYcHZEM6RrgSuubjYAQ&ved=0ahUKEwjB2LKr4M_0AhXOiIsKHa4cDhsQ4dUDCA4&uact=5&oq=C%2B%2B&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBAgAEEMyCAgAEIAEELEDMgQILhBDMgQIABBDMgQIABBDMgQIABBDMgUIABCABDIICAAQgAQQsQMyCwgAEIAEELEDEIMBOgcIIxCwAxAnOgcIABCwAxBDOgoIABCxAxCwAxBDOhAILhDHARDRAxDIAxCwAxBDOgQIIxAnOgYIIxAnEBNKBAhBGAFQ-QVYsApgzQxoAXAAeACAAVaIAfUBkgEBM5gBAKABAcgBCsABAQ&sclient=gws-wiz">C++</a>
-    
-## ✉ Contact me:
-    
-<a href="https://discord.gg">naxce</a>
-                        
-
-
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naxce&theme=tokyonight" alt="naxce streak" />
+</p>
