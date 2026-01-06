@@ -12,7 +12,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🩵 HourFarmer</h4>
-      <p>A lightweight tool for Steam hour farming.</p>
+      <p>A tool for Steam hour farming.</p>
       <a href="https://github.com/naxce/HourFarmer">
         <img src="https://fatum.cc/files/imgs/HourFarmer64.png" alt="HourFarmer" />
       </a>
