@@ -19,7 +19,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🌡️ TempInfo</h4>
-      <p>Hardware monitoring with a gaming overlay.</p>
+      <p>Simple hardware temperature monitoring.</p>
       <a href="https://github.com/naxce/TempInfo">
          <img src="https://fatum.cc/files/imgs/TempInfo64.png" alt="TempInfo" />
       </a>
