@@ -22,7 +22,7 @@
         <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="TempInfo" /><br/>
         <b>TempInfo</b>
       </a>
-      <p>Hardware monitor with 144Hz gaming overlay.</p>
+      <p>Hardware temperature monitor. SOON > Gaming overlay.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://fatum.cc">
