@@ -62,4 +62,4 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naxce&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naxce&theme=dark&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
