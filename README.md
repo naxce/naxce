@@ -12,14 +12,14 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🩵 HourFarmer</h4>
-      <p>A tool for Steam hour farming.</p>
+      <p>A lightweight tool for Steam in-game hours farming.</p>
       <a href="https://github.com/naxce/HourFarmer">
         <img src="https://fatum.cc/files/imgs/HourFarmer64.png" alt="HourFarmer" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h4>🌡️ TempInfo</h4>
-      <p>Simple hardware temperature monitoring.</p>
+      <p>Simple hardware temperature monitoring. ***SOON*** Gaming overlay.</p>
       <a href="https://github.com/naxce/TempInfo">
          <img src="https://fatum.cc/files/imgs/TempInfo64.png" alt="TempInfo" />
       </a>
