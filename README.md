@@ -44,11 +44,14 @@
   <a href="https://www.google.com/search?q=JavaScript&sxsrf=AE3TifNzqcftXsTLJ2DWZmF4fSCUh5Y5fg%3A1767723067857">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
+  <a href="https://www.google.com/search?q=CSS3&sxsrf=AE3TifNp1ZnGM5XmP_NnBXr52zexPXe__Q%3A1767723117340">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
   <a href="https://www.google.com/search?q=HTML5&sxsrf=AE3TifNDoeoEvFhy8tGROM4Xq7N4HNNVlQ%3A1767723087554">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
-  <a href="https://www.google.com/search?q=CSS3&sxsrf=AE3TifNp1ZnGM5XmP_NnBXr52zexPXe__Q%3A1767723117340">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://www.google.com/search?q=PHP&sxsrf=AE3TifPE_68o9-onG6u6XXN6Bfnxgzdwnw%3A1767723129995">
+  <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white" />
   </a>
 </p>
 
