@@ -8,28 +8,28 @@
 
 ### 🚀 Currently working on:
 
-<table>
+<table border="0">
   <tr>
-    <td width="33%" valign="top">
-      <h4>🩵 HourFarmer</h4>
-      <p>A lightweight tool for Steam in-game hours farming.</p>
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/naxce/HourFarmer">
-        <img src="https://fatum.cc/files/imgs/HourFarmer64.png" alt="HourFarmer" />
+        <img src="https://fatum.cc/files/imgs/HourFarmer64.png" width="64" alt="HourFarmer" /><br/>
+        <b>HourFarmer</b>
       </a>
+      <p>Lightweight tool for Steam in-game hours farming.</p>
     </td>
-    <td width="34%" valign="top">
-      <h4>🌡️ TempInfo</h4>
-      <p>Simple hardware temperature monitoring. SOON > Gaming overlay.</p>
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/naxce/TempInfo">
-         <img src="https://fatum.cc/files/imgs/TempInfo64.png" alt="TempInfo" />
+        <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="TempInfo" /><br/>
+        <b>TempInfo</b>
       </a>
+      <p>Hardware monitor with 144Hz gaming overlay.</p>
     </td>
-    <td width="33%" valign="top">
-      <h4>🪻 FatumInstaller</h4>
-      <p>An installer for Fatum applications.</p>
+    <td width="33%" align="center" valign="top">
       <a href="https://fatum.cc">
-         <img src="https://fatum.cc/files/imgs/Fatum64.png" alt="FatumInstaller" />
+        <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="FatumInstaller" /><br/>
+        <b>FatumInstaller</b>
       </a>
+      <p>Unified installer for all Fatum applications.</p>
     </td>
   </tr>
 </table>
@@ -39,27 +39,13 @@
 ### 🛠️ Languages & Technologies:
 
 <p align="left">
-  <a href="https://www.google.com/search?q=C%23&sxsrf=AE3TifPGgQ5djtAN7kM8Vsqj5Lq9MHigsQ%3A1767722991220">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=C%2B%2B&sxsrf=AE3TifN_lNglB4ZBWxlnp2b35c7PLd9mNg%3A1767722993663">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=Java&sxsrf=AE3TifOHDfpoVDJGTYHZJcMrs__4tANeZA%3A1767723045129">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=JavaScript&sxsrf=AE3TifNzqcftXsTLJ2DWZmF4fSCUh5Y5fg%3A1767723067857">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://www.google.com/search?q=PHP&sxsrf=AE3TifPE_68o9-onG6u6XXN6Bfnxgzdwnw%3A1767723129995">
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=HTML5&sxsrf=AE3TifNDoeoEvFhy8tGROM4Xq7N4HNNVlQ%3A1767723087554">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=CSS3&sxsrf=AE3TifNp1ZnGM5XmP_NnBXr52zexPXe__Q%3A1767723117340">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  </a>
+  <a href="https://www.google.com/search?q=C%23"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://www.google.com/search?q=C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.google.com/search?q=Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a href="https://www.google.com/search?q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.google.com/search?q=PHP"><img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="https://www.google.com/search?q=HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://www.google.com/search?q=CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
 </p>
 
 ---
@@ -84,4 +70,6 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naxce&theme=dark&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naxce&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
