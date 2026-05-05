@@ -40,7 +40,7 @@
 
 #### 🚀 Fluently:
 <p align="left">
-  <a href="https://www.google.com/search?q=Nix"><img src="https://img.shields.io/badge/Nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" /></a><br>
+  <a href="https://www.google.com/search?q=Nix Language"><img src="https://img.shields.io/badge/Nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" /></a><br>
   <a href="https://www.google.com/search?q=C%23"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white" /></a><br>
   <a href="https://www.google.com/search?q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a><br>
   <a href="https://www.google.com/search?q=HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a><br>
@@ -57,7 +57,7 @@
 #### ♿ Superficially:
 <p align="left">
   <a href="https://www.google.com/search?q=PHP"><img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" /></a><br>
-  <a href="https://www.google.com/search?q=Rust"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a><br>
+  <a href="https://www.google.com/search?q=Rust Language"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a><br>
   <a href="https://www.google.com/search?q=C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a><br>
 </p>
 
