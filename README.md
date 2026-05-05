@@ -57,7 +57,7 @@
 #### ♿ Superficially:
 <p align="left">
   <a href="https://www.google.com/search?q=PHP"><img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" /></a><br>
-  <a href="https://www.google.com/search?q=C"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a><br>
+  <a href="https://www.google.com/search?q=Rust"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a><br>
   <a href="https://www.google.com/search?q=C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a><br>
 </p>
 
