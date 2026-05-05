@@ -12,7 +12,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://fatum.cc/">
-        <img src="https://fatum.cc/files/imgs/HourFarmer64.png" width="64" alt="HourFarmer" /><br/>
+        <img src="https://fatum.cc/files/imgs/HF64.png" width="64" alt="HourFarmer" /><br/>
         <b>HourFarmer</b>
       </a>
       <p>Lightweight desktop tool for Steam in-game hours farming.</p>
