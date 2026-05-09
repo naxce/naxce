@@ -34,6 +34,21 @@
   </tr>
 </table>
 
+
+### 🛑 Finished working on:
+
+<table border="0">
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <a href="https://github.com/naxce/TempInfo">
+        <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="HourFarmer" /><br/>
+        <b>TempInfo (ARCHIVED)</b>
+      </a>
+      <p>Simple hardware monitoring tool designed to track your PC's vitals in real-time.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🛠️ Languages & Technologies:
