@@ -22,7 +22,7 @@
         <img src="https://fatum.cc/files/imgs/HourFarmerPro64.png" width="64" alt="HourFarmer Pro" /><br/>
         <b>HourFarmer Pro</b>
       </a>
-      <p>Lightweight web tool for Steam in-game hours farming.</p>
+      <p>24/7 web tool for Steam in-game hours and trading cards farming.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://fatum.cc">
