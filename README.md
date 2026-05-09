@@ -29,7 +29,7 @@
         <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="FatumInstaller" /><br/>
         <b>FatumInstaller</b>
       </a>
-      <p>Unified installer for all Fatum applications.</p>
+      <p>Unified installer for all Fatum desktop applications.</p>
     </td>
   </tr>
 </table>
