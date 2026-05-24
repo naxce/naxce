@@ -10,26 +10,33 @@
 
 <table border="0">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://fatum.cc/">
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/naxce/HourFarmer">
         <img src="https://fatum.cc/files/imgs/HF64.png" width="64" alt="HourFarmer" /><br/>
         <b>HourFarmer</b>
       </a>
       <p>Lightweight desktop tool for Steam in-game hours farming.</p>
     </td>
-    <td width="34%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc/">
         <img src="https://fatum.cc/files/imgs/HourFarmerPro64.png" width="64" alt="HourFarmer Pro" /><br/>
         <b>HourFarmer Pro</b>
       </a>
       <p>24/7 web tool for Steam in-game hours and trading cards farming.</p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc">
         <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="FatumInstaller" /><br/>
         <b>FatumInstaller</b>
       </a>
       <p>Unified installer for all Fatum desktop applications.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/naxce/ILoveNixOS">
+        <img src="https://fatum.cc/files/imgs/NixOS.png" width="64" alt="FatumInstaller" /><br/>
+        <b>ILoveNixOS</b>
+      </a>
+      <p>My own NixOS configuration and dotfiles.</p>
     </td>
   </tr>
 </table>
