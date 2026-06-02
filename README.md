@@ -11,11 +11,11 @@
 <table border="0">
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/naxce/HourFarmer">
-        <img src="https://fatum.cc/files/imgs/HF64.png" width="64" alt="HourFarmer" /><br/>
-        <b>HourFarmer</b>
+      <a href="https://github.com/naxce/CLInfo">
+        <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="HourFarmer" /><br/>
+        <b>CLInfo</b>
       </a>
-      <p>Lightweight desktop tool for Steam in-game hours farming.</p>
+      <p>TempInfo ported to Linux and replaced to CLI.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc/">
@@ -46,12 +46,19 @@
 
 <table border="0">
   <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/naxce/TempInfo">
         <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="HourFarmer" /><br/>
         <b>TempInfo (ARCHIVED)</b>
       </a>
       <p>Simple hardware monitoring tool designed to track your PC's vitals in real-time.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/naxce/HourFarmer">
+        <img src="https://fatum.cc/files/imgs/HF64.png" width="64" alt="HourFarmer" /><br/>
+        <b>HourFarmer (ARCHIVED)</b>
+      </a>
+      <p>Lightweight desktop tool for Steam in-game hours farming.</p>
     </td>
   </tr>
 </table>
