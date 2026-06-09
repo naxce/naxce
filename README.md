@@ -19,7 +19,7 @@
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://todo.fatum.cc/">
-        <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="Fatum Todo" /><br/>
+        <img src="https://todo.fatum.cc/favicon.png" width="64" alt="Fatum Todo" /><br/>
         <b>Fatum Todo</b>
       </a>
       <p>Simple web todo list supporting markdown.</p>
