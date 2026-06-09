@@ -12,7 +12,7 @@
   <tr>
     <td width="25%" align="center" valign="top">
       <a href="https://logrid.fatum.cc/">
-        <img src="https://logrid.fatum.cc/icon-512.png" width="64" alt="LOGRID" /><br/>
+        <img src="https://logrid.fatum.cc/favicon.png" width="64" alt="LOGRID" /><br/>
         <b>LOGRID</b>
       </a>
       <p>Polish web platform to play classic board games with friends.</p>
