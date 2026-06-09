@@ -18,6 +18,13 @@
       <p>Polish web platform to play classic board games with friends.</p>
     </td>
     <td width="25%" align="center" valign="top">
+      <a href="https://todo.fatum.cc/">
+        <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="Fatum Todo" /><br/>
+        <b>Fatum Todo</b>
+      </a>
+      <p>Simple web todo list supporting markdown.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc/">
         <img src="https://fatum.cc/files/imgs/HourFarmerPro64.png" width="64" alt="HourFarmer Pro" /><br/>
         <b>HourFarmer Pro</b>
@@ -25,18 +32,27 @@
       <p>24/7 web tool for Steam in-game hours and trading cards farming.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://fatum.cc">
-        <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="FatumInstaller" /><br/>
-        <b>FatumInstaller</b>
-      </a>
-      <p>Unified installer for all Fatum desktop applications.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
       <a href="https://github.com/naxce/ILoveNixOS">
         <img src="https://fatum.cc/files/imgs/NixOS.png" width="64" alt="ILoveNixOS" /><br/>
         <b>ILoveNixOS</b>
       </a>
       <p>My own NixOS configuration and dotfiles.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+### 🟡 Paused working on:
+
+<table border="0">
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <a href="https://fatum.cc">
+        <img src="https://fatum.cc/files/imgs/Fatum64.png" width="64" alt="FatumInstaller" /><br/>
+        <b>FatumInstaller</b>
+      </a>
+      <p>Unified installer for all Fatum desktop applications.</p>
     </td>
   </tr>
 </table>
