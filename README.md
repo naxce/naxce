@@ -11,11 +11,11 @@
 <table border="0">
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/naxce/CLInfo">
-        <img src="https://fatum.cc/files/imgs/TempInfo64.png" width="64" alt="HourFarmer" /><br/>
-        <b>CLInfo</b>
+      <a href="https://logrid.fatum.cc/">
+        <img src="https://logrid.fatum.cc/icon-512.png" width="64" alt="LOGRID" /><br/>
+        <b>LOGRID</b>
       </a>
-      <p>TempInfo ported to Linux and replaced to CLI.</p>
+      <p>Polish web platform to play classic board games with friends.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc/">
@@ -33,7 +33,7 @@
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://github.com/naxce/ILoveNixOS">
-        <img src="https://fatum.cc/files/imgs/NixOS.png" width="64" alt="FatumInstaller" /><br/>
+        <img src="https://fatum.cc/files/imgs/NixOS.png" width="64" alt="ILoveNixOS" /><br/>
         <b>ILoveNixOS</b>
       </a>
       <p>My own NixOS configuration and dotfiles.</p>
