@@ -18,11 +18,11 @@
       <p>Polish web platform to play classic board games with friends.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://todo.fatum.cc/">
-        <img src="https://todo.fatum.cc/favicon.png" width="64" alt="Fatum Todo" /><br/>
-        <b>Fatum Todo</b>
+      <a href="https://diver.fatum.cc/">
+        <img src="https://diver.fatum.cc/favicon.png" width="64" alt="diver" /><br/>
+        <b><i>diver</i></b>
       </a>
-      <p>Simple online to-do list that supports Markdown.</p>
+      <p>Simple online to-do list and day-planner that supports Markdown.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://fatum.cc/">
