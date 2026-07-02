@@ -20,18 +20,6 @@
   <a href="https://www.google.com/search?q=Windows 11"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" /></a><br>
 </p> <br>
 
-### 💻 _SOON_ Apple MacBook Pro M5 Pro | 15-Core CPU | 16-Core GPU | 24GB
-
-<p align="left">
-  <a href="https://www.google.com/search?q=Macbook Pro M5 Pro"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0" /></a><br>
-</p>
-
-### VM
-
-<p align="left">
-  <a href="https://www.google.com/search?q=Void Linux"><img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=fff" /></a>
-</p>
-
 ---
 
 ## 🚀 Currently working on:
