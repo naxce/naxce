@@ -14,8 +14,11 @@
   <a href="https://www.google.com/search?q=NixOS"><img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=fff" /></a>
 </p>
 
-### Dualbooted with
+### Triplebooted with
 
+<p align="left">
+  <a href="https://www.google.com/search?q=Void Linux"><img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=fff" /></a><br>
+</p>
 <p align="left">
   <a href="https://www.google.com/search?q=Windows 11"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" /></a><br>
 </p> <br>
