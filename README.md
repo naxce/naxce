@@ -1,8 +1,10 @@
-# 👋 Hello, I'm <a href="https://fatum.cc">naxce</a>!
+# 👋 Hello, I'm <a href="https://naxce.fatum.cc">naxce</a>!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naxce&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="naxce" />
 </p>
+
+## See my <a href="https://naxce.fatum.cc">bio</a>!
 
 ---
 
