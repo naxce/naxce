@@ -60,6 +60,14 @@
       <p>My own NixOS configuration and dotfiles.</p>
     </td>
   </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/naxce/FaTest">
+        <img src="https://fatum.cc/files/imgs/fatest.png" width="64" alt="FaTest" /><br/>
+        <b>FaTest</b>
+      </a>
+      <p>A fast, clean terminal speedtest tool.</p>
+    </td>
 </table>
 
 ## 🟡 Paused working on:
